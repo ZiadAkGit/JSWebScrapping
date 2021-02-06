@@ -1,0 +1,384 @@
+AAfado
+rAffenhuahu
+aAffenpinsche
+rAfghan Houn
+dAiredale Terrie
+rAkbas
+hAkit
+aAkita Cho
+wAkita Pi
+tAkita Shepher
+dAlaskan Klee Ka
+iAlaskan Malamut
+eAmerican Bulldo
+gAmerican English Coonhoun
+dAmerican Eskimo Do
+gAmerican Foxhoun
+dAmerican Hairless Terrie
+rAmerican Leopard Houn
+dAmerican Pit Bull Terrie
+rAmerican Pugabul
+lAmerican Staffordshire Terrie
+rAmerican Water Spanie
+lAnatolian Shepherd Do
+gAppenzeller Sennenhund
+eAuggi
+eAussiedoodl
+eAussiepo
+mAustralian Cattle Do
+gAustralian Kelpi
+eAustralian Retrieve
+rAustralian Shepher
+dAustralian Shepherd Husk
+yAustralian Shepherd Lab Mi
+xAustralian Shepherd Pit Bull Mi
+xAustralian Stumpy Tail Cattle Do
+gAustralian Terrie
+rAzawak
+hBBarbe
+tBasenj
+iBassado
+rBasset Fauve de Bretagn
+eBasset Houn
+dBasset Retrieve
+rBavarian Mountain Scent Houn
+dBeabul
+lBeagl
+eBeaglie
+rBearded Colli
+eBedlington Terrie
+rBelgian Malinoi
+sBelgian Sheepdo
+gBelgian Tervure
+nBergamasco Sheepdo
+gBerger Picar
+dBernedoodl
+eBernese Mountain Do
+gBichon Fris
+eBiewer Terrie
+rBlack and Tan Coonhoun
+dBlack Mouth Cu
+rBlack Russian Terrie
+rBloodhoun
+dBlue Lac
+yBluetick Coonhoun
+dBocke
+rBoerboe
+lBoglen Terrie
+rBohemian Shepher
+dBolognes
+eBorado
+rBorder Colli
+eBorder Sheepdo
+gBorder Terrie
+rBordoodl
+eBorzo
+iB
+oShi
+hBossi
+eBoston Boxe
+rBoston Terrie
+rBoston Terrier Pekingese Mi
+xBouvier des Flandre
+sBoxado
+rBoxe
+rBoxerdoodl
+eBoxmatia
+nBoxweile
+rBoykin Spanie
+lBracco Italian
+oBraque du Bourbonnai
+sBriar
+dBrittan
+yBroholme
+rBrussels Griffo
+nBug
+gBull-Pe
+iBull Terrie
+rBullado
+rBullboxer Pi
+tBulldo
+gBullmastif
+fBullmatia
+nCCairn Terrie
+rCanaan Do
+gCane Cors
+oCardigan Welsh Corg
+iCarolina Do
+gCatahoula Bulldo
+gCatahoula Leopard Do
+gCaucasian Shepherd Do
+gCav-a-Jac
+kCavacho
+nCavado
+rCavalier King Charles Spanie
+lCavapo
+oCentral Asian Shepherd Do
+gCesky Terrie
+rChabrado
+rCheagl
+eChesapeake Bay Retrieve
+rChi Ch
+iChi-Po
+oChig
+iChihuahu
+aChilie
+rChinese Creste
+dChinese Shar-Pe
+iChinoo
+kChio
+nChipi
+nChiweeni
+eChorki
+eChow Cho
+wChow Shepher
+dChu
+gChusk
+yCirneco dell’Etn
+aClumber Spanie
+lCockalie
+rCockapo
+oCocker Spanie
+lColli
+eCorgi In
+uCorgido
+rCorman Shepher
+dCoton de Tulea
+rCroatian Sheepdo
+gCurly-Coated Retrieve
+rDDachsado
+rDachshun
+dDalmatia
+nDandie Dinmont Terrie
+rDanif
+fDanish-Swedish Farmdo
+gDeutscher Wachtelhun
+dDoberdo
+rDoberman Pinsche
+rDocke
+rDogo Argentin
+oDogue de Bordeau
+xDorg
+iDorki
+eDoxiepo
+oDoxl
+eDrentsche Patrijshon
+dDreve
+rDutch Shepher
+dEEnglish Cocker Spanie
+lEnglish Foxhoun
+dEnglish Sette
+rEnglish Springer Spanie
+lEnglish Toy Spanie
+lEntlebucher Mountain Do
+gEstrela Mountain Do
+gEurasie
+rFField Spanie
+lFila Brasileir
+oFinnish Lapphun
+dFinnish Spit
+zFlat-Coated Retrieve
+rFox Terrie
+rFrench Bulldo
+gFrench Bullhuahu
+aFrench Spanie
+lFrenchto
+nFrengl
+eGGerman Longhaired Pointe
+rGerman Pinsche
+rGerman Shepherd Do
+gGerman Shepherd Pit Bul
+lGerman Shepherd Rottweiler Mi
+xGerman Sheprado
+rGerman Shorthaired Pointe
+rGerman Spit
+zGerman Wirehaired Pointe
+rGiant Schnauze
+rGlen of Imaal Terrie
+rGoberia
+nGoldado
+rGolden Cocker Retrieve
+rGolden Mountain Do
+gGolden Retrieve
+rGolden Retriever Corg
+iGolden Shepher
+dGoldendoodl
+eGolli
+eGordon Sette
+rGreat Dan
+eGreat Pyrenee
+sGreater Swiss Mountain Do
+gGreyado
+rGreyhoun
+dHHamiltonstovar
+eHanoverian Scenthoun
+dHarrie
+rHavanes
+eHokkaid
+oHorg
+iHovawar
+tHuskit
+aHuskydoodl
+eIIbizan Houn
+dIcelandic Sheepdo
+gIrish Red And White Sette
+rIrish Sette
+rIrish Terrie
+rIrish Water Spanie
+lIrish Wolfhoun
+dItalian Greyhoun
+dJJack-A-Po
+oJack Ch
+iJack Russell Terrie
+rJackshun
+dJapanese Chi
+nJapanese Spit
+zKKorean Jindo Do
+gKai Ke
+nKarelian Bear Do
+gKeeshon
+dKerry Blue Terrie
+rKing Shepher
+dKishu Ke
+nKomondo
+rKooikerhondj
+eKuvas
+zKyi-Le
+oLLab Pointe
+rLabernes
+eLabmarane
+rLabrabul
+lLabradan
+eLabradoodl
+eLabrador Retrieve
+rLabrastaf
+fLabsk
+yLagotto Romagnol
+oLakeland Terrie
+rLancashire Heele
+rLeonberge
+rLhasa Aps
+oLhasapo
+oLowche
+nMMaltes
+eMaltese Shih Tz
+uMaltipo
+oManchester Terrie
+rMaremma Sheepdo
+gMastado
+rMastif
+fMiniature Pinsche
+rMiniature Schnauze
+rMorki
+eMountain Cu
+rMud
+iMutt (Mixed)NNeapolitan Mastif
+fNewfoundlan
+dNorfolk Terrie
+rNorthern Inuit Do
+gNorwegian Buhun
+dNorwegian Elkhoun
+dNorwegian Lundehun
+dNorwich Terrie
+rNova Scotia Duck Tolling Retrieve
+rOOld English Sheepdo
+gOtterhoun
+dPPapillo
+nPapipo
+oPatterdale Terrie
+rPeekapo
+oPekinges
+ePembroke Welsh Corg
+iPetit Basset Griffon Vendée
+nPharaoh Houn
+dPitsk
+yPlot
+tPocket Beagl
+ePointe
+rPolish Lowland Sheepdo
+gPomapo
+oPomch
+iPomeagl
+ePomerania
+nPomsk
+yPoocho
+nPoodl
+ePortuguese Podengo Pequen
+oPortuguese Pointe
+rPortuguese Sheepdo
+gPortuguese Water Do
+gPu
+gPugalie
+rPuggl
+ePugines
+ePul
+iPyredoodl
+ePyrenean Mastif
+fPyrenean Shepher
+dRRat Terrie
+rRedbone Coonhoun
+dRhodesian Ridgebac
+kRottado
+rRottl
+eRottweile
+rSSaint Berdoodl
+eSaint Bernar
+dSaluk
+iSamoye
+dSamusk
+ySchipperk
+eSchnoodl
+eScottish Deerhoun
+dScottish Terrie
+rSealyham Terrie
+rSheepadoodl
+eShepsk
+yShetland Sheepdo
+gShiba In
+uShicho
+nShih-Po
+oShih Tz
+uShiloh Shepher
+dShirania
+nSholli
+eShorki
+eSiberian Husk
+ySilken Windhoun
+dSilky Terrie
+rSkye Terrie
+rSlough
+iSmall Munsterlander Pointe
+rSoft Coated Wheaten Terrie
+rSpanish Mastif
+fSpinone Italian
+oSpringado
+rStabyhou
+nStaffordshire Bull Terrie
+rStaffy Bull Bullmastif
+fStandard Schnauze
+rSussex Spanie
+lSwedish Lapphun
+dSwedish Vallhun
+dTTaiwan Do
+gTerripo
+oTexas Heele
+rTibetan Mastif
+fTibetan Spanie
+lTibetan Terrie
+rToy Fox Terrie
+rTransylvanian Houn
+dTreeing Tennessee Brindl
+eTreeing Walker Coonhoun
+dVValley Bulldo
+gVizsl
+aWWeimarane
+rWelsh Springer Spanie
+lWelsh Terrie
+rWest Highland White Terrie
+rWestiepo
+oWhippe
+tWhoodl
+eWirehaired Pointing Griffo
+nXXoloitzcuintl
+iYYorkipo
+oYorkshire Terrier

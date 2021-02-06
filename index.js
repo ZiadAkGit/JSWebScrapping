@@ -1,4 +1,6 @@
 const puppeteer = require('puppeteer');
+const fsLibrary  = require('fs') 
+
 
 async function getWeatherFromCity(city){
     const browser = await puppeteer.launch({ headless: false });
@@ -14,8 +16,23 @@ async function getWeatherFromCity(city){
     browser.close();
 }
 
+async function getDogsName(){
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    page.goto('https://dogtime.com/dog-breeds/profiles');
+    await page.waitForXPath('/html/body/div[1]/div[2]/div/div/div[3]')
+    const [dogNames] = await page.$x('/html/body/div[1]/div[2]/div/div/div[3]');
+    const valueof = await dogNames.getProperty('textContent');
+    const textV = await valueof.jsonValue();
+    // fsLibrary.writeFile('dogNames.txt',textV.split(/(?=[a-z][A-Z])/).toString(),(error) => { 
+    //     if (error) throw err; 
+    // });
+    console.log('DATA IS: \n' + textV.split(/(?=[a-z][A-Z])/) + '\n');
+    browser.close();
+}
+
 async function getAmazonProducts(product,pages){
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     await page.goto('https://www.amazon.com/');
     await page.waitForXPath('//*[@id="twotabsearchtextbox"]')
@@ -31,8 +48,6 @@ async function getAmazonProducts(product,pages){
     // browser.close();
 }
 
-//  //*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[2]/div/span/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div/div/div/a/span
-// //*[@id="search"]/div[1]/div[2]/div/span[3]/div[2]/div[10]/div/span/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div[1]/div/div/div/a/span
-
 //getWeatherFromCity('Haifa');
-getAmazonProducts('iphone',2);
+//getAmazonProducts('iphone',2);
+getDogsName();
