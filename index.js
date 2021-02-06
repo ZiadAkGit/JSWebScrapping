@@ -12,8 +12,8 @@ async function getWeatherFromCity(city){
     const [degree] = await page.$x('//*[@id="wob_tm"]');
     const valueof = await degree.getProperty('textContent');
     const textV = await valueof.jsonValue();
-    console.log('The Weather in ' + city + ' is: '+String(textV).trim()+'°C');
     browser.close();
+    console.log('The Weather in ' + city + ' is: '+String(textV).trim()+'°C');
 }
 
 async function getDogsName(){
@@ -51,3 +51,22 @@ async function getAmazonProducts(product,pages){
 //getWeatherFromCity('Haifa');
 //getAmazonProducts('iphone',2);
 getDogsName();
+async function randomWord(){
+    const browser = await puppeteer.launch({ headless: false });
+    const page = await browser.newPage();
+    let randomPage = Math.floor(Math.random() * 1111);
+    console.log('https://www.urbandictionary.com/random.php?page=' + randomPage);
+    await page.goto('https://www.urbandictionary.com/random.php?page=' + randomPage);
+    //await page.waitForXPath('//*[@id="content"]/div[1]/div[2]/a'); // //*[@id="content"]/div[1]/div[2]/a
+    //await page.waitForXPath('//*[@id="content"]/div[1]/div[3]'); // //*[@id="content"]/div[1]/div[3]
+    const [titleWords] = await page.$x('//*[@id="content"]/div[1]/div[2]/a');
+    const [discWords] = await page.$x('//*[@id="content"]/div[1]/div[3]');
+    const valueof1 = await titleWords.getProperty('textContent');
+    const valueof2= await discWords.getProperty('textContent');
+    const word = await valueof1.jsonValue();
+    const disc = await valueof2.jsonValue();
+   console.log('The Word: ' + word + ' meaning is: ' + disc);
+}
+
+randomWord();
+//getWeatherFromCity('Tel Aviv');
