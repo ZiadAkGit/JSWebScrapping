@@ -1,7 +1,5 @@
 const puppeteer = require('puppeteer');
 const fsLibrary  = require('fs') 
-
-
 async function getWeatherFromCity(city){
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
@@ -68,5 +66,5 @@ async function randomWord(){
    console.log('The Word: ' + word + ' meaning is: ' + disc);
 }
 
-randomWord();
+//randomWord();
 //getWeatherFromCity('Tel Aviv');
